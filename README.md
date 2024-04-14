@@ -1,6 +1,5 @@
 # SnaX Game Engine
 
-**Please note: This project is no longer maintained or in development.**
 
 ## License
 SnaX Game Engine - https://github.com/snaxgameengine/snax  
